@@ -1,9 +1,5 @@
-=========
- Clarity
-=========
-
-osla: Open Source Laboratory Automation
-=======================================
+Clarity
+=======
 
 Clarity is...
 
