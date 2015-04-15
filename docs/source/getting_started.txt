@@ -20,9 +20,9 @@ From the sources
 
 - Checkout the sources_ ::
 
-     svn checkout http://osla.googlecode.com/svn/trunk/ osla-read-only
+     git clone git@github.com:jireva/osla.git
 
-.. _sources: https://code.google.com/p/osla/source/checkout
+.. _sources: https://github.com/jireva/osla
 
 Building with VisualStudio
 --------------------------

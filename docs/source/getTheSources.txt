@@ -47,7 +47,7 @@ http://ankhsvn.open.collab.net/
 Once installed, and initialized, you can then go to
 File>Subversion>Open From Subversion.  Go to this URL:
 
-https://osla.googlecode.com/svn/trunk/Clarity_Suite
+https://github.com/jireva/osla
 
 and select the ``Clarity.sln`` solution, everything else should download.
 
