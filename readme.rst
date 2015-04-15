@@ -3,15 +3,15 @@ Clarity
 
 Clarity is...
 
-  * a robot manager for laboratory automation.
-  * free and open source.
-  * actively developed.
+* a robot manager for laboratory automation.
+* free and open source.
+* actively developed.
 
 Clarity has...
 
-  * `good documentation <http://www.people.fas.harvard.edu/~rojasechenique/claritydocs/>`_
-  * `a mail list <https://groups.google.com/forum/?fromgroups#!forum/clarity-dev>`_
-  * `doxygen sources <http://www.people.fas.harvard.edu/~rojasechenique/claritydocs/sourcecode/html/>`_
+* `good documentation <http://www.people.fas.harvard.edu/~rojasechenique/claritydocs/>`_
+* `a mail list <https://groups.google.com/forum/?fromgroups#!forum/clarity-dev>`_
+* `doxygen sources <http://www.people.fas.harvard.edu/~rojasechenique/claritydocs/sourcecode/html/>`_
 
 
 A tour of Clarity
@@ -23,10 +23,10 @@ In contrast to closed source automation programs, Clarity is exceptionally flexi
 
 Clarity is written completely in C# and is compatible with the Mono .NET framework implementation so can run on any operating system.  It is composed of essentially four parts:
 
-  * A set of classes that provide an interface between the Clarity software and hardware resources.  
-  * A runtime engine that manages these resources and runs protocols using them.  
-  * A set of graphical user interfaces that allow users to observe the runtime engine, add or alter protocols, create new XML protocols using a GUI and interface directly with the instruments.
-  * A set of tools involved in error reporting.  This includes a client application that allows users to watch video feeds and a remote monitor that uses Skype to call users in the event of a failure.
+* A set of classes that provide an interface between the Clarity software and hardware resources.  
+* A runtime engine that manages these resources and runs protocols using them.  
+* A set of graphical user interfaces that allow users to observe the runtime engine, add or alter protocols, create new XML protocols using a GUI and interface directly with the instruments.
+* A set of tools involved in error reporting.  This includes a client application that allows users to watch video feeds and a remote monitor that uses Skype to call users in the event of a failure.
 
 Acknowledgements
 ================
